@@ -1,0 +1,36 @@
+I"�<p>-–</p>
+
+<p>layout: post</p>
+
+<p>title: “Change the Github.io Jekyll Theme”</p>
+
+<p>comments: true</p>
+
+<p>description: “The function of old Jekyll Theme is too simple…”</p>
+
+<p>keywords: “Jekyll Blog”</p>
+
+<p>-–</p>
+
+<p><strong>### Use this theme as you main site</strong></p>
+
+<p>- Download or fork the master branch of this theme repo into your GitHub account.</p>
+
+<p>- Rename the repo into something like <code class="highlighter-rouge">your_username.github.io</code>.</p>
+
+<p>- Edit <code class="highlighter-rouge">_config.yml</code> file to your preferences.</p>
+
+<p>- Edit <code class="highlighter-rouge">about.md</code> file for your About page.</p>
+
+<p>- Inside <code class="highlighter-rouge">_posts</code> folder, there are sample of blog entries. Learn from it and start yours.</p>
+
+<p>- Now, visit <code class="highlighter-rouge">http://your_username.github.io</code> and you should see your blog running.</p>
+
+<p><strong>### Use this theme as a project page</strong></p>
+
+<p>If you want to use this theme as a project page blog, you don’t need to rename the theme repo into <code class="highlighter-rouge">your_username.github.io</code>.</p>
+
+<p>All you need to do, open <code class="highlighter-rouge">_config.yml</code> file, change <code class="highlighter-rouge">baseurl</code> to your project name which contains this theme, e.g. <code class="highlighter-rouge">baseurl: "/myproject"</code>.</p>
+
+<p><strong>#### Cheers!</strong></p>
+:ET
